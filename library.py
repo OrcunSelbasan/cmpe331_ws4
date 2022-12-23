@@ -8,6 +8,11 @@
     Stage: Development-02
     @author: Arda Çelik, 119202051
     @authot: Giragos Başak, 119202045
+
+    
+    Stage: Code Review
+    @author: Lütfü Orçun Selbasan, 119200063
+    @author: Abdulmoez Derrija 120200136
 """
 
 from tkinter import messagebox
